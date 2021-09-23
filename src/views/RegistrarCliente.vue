@@ -50,7 +50,6 @@
 
         <v-text-field
             label='RG'
-            disabled
             hide-details='auto'
             filled
             class="mb-4"

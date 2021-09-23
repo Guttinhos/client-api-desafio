@@ -27,16 +27,7 @@
         </v-list-item>
       </v-list>
       <v-divider></v-divider>
-      <v-list dense>
-        <v-list-item
-          :to="{ name: 'Registrarusuario'}"
-          link
-    >
-         <v-list-item-content>
-            <v-list-item-title>Registrar Usuario</v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-      </v-list>
+      
       <v-list dense>
         <v-list-item
           :to="{ name: 'Lista'}"
