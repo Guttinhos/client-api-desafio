@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "vue",
+      "author": "alex",
+      "id": 3
+    },
+    {
+      "title": "vue",
+      "author": "alex",
+      "id": 4
+    },
+    {
+      "name": "Mauricio",
+      "cpf": "3243424233",
+      "phones": "24324342342",
+      "birth_date": "2005-05-05",
+      "rg": "4342424342432",
+      "birth_state": "BA",
+      "id": 5
+    },
+    {
+      "name": "Gutemberg",
+      "cpf": "141232432",
+      "phones": "324234242342",
+      "birth_date": "2005-05-05",
+      "rg": "243242342432",
+      "birth_state": "BA",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
