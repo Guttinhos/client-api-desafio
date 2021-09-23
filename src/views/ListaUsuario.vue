@@ -2,7 +2,7 @@
 <template>
 <v-container>
   <v-main class=" col-md-6 mx-auto text-center mt-10" >
-        <h1 class="text-center mb-7 mt-7">Listagem de Clientes</h1>
+        <h1 class="text-center mb-7 mt-7">Listagem de Usuarios</h1>
     <v-simple-table>
     <template v-slot:default>
       <thead>
